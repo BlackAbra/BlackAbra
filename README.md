@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BlackAbra (Orhan Eryigit)
 - 👀 I’m interested in  Cyber Security ,  Cloud Engineering  , Design Algorithm
 - 🌱 I’m currently learning ...  C ++ , Python , Java ,
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Embedded systems , Cyber Security 
 - 📫 How to reach me ... eryigitorhan@protonmail.com
 - 🧑‍💻 Currently Working on BackEnd Dev , Cloud Computing
 - 👾 Some Experince on the Hyper Casual Gaming on Senior project 
