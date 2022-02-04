@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Embedded systems , Cyber Security 
 - 📫 How to reach me ... eryigitorhan@protonmail.com
 - 🧑‍💻 Currently Working on BackEnd Dev , Cloud Computing
-- 👾 Some Experince on the Hyper Casual Gaming on Senior project 
+- 👾 Experince on the Hyper Casual Gaming on Senior project 
 - 🌵  Honorable Mentions I Love Playing Drum \  Rock Climbing \ 3D Modelling 
 
 
