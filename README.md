@@ -6,7 +6,7 @@
 - 🧑‍💻 Currently Working on BackEnd Dev , Cloud Computing
 - 👾 Experince on the Hyper Casual Gaming on Senior project 
 - 🌵  Honorable Mentions I Love Playing Drum \  Rock Climbing \ 3D Modelling 
-
+- 🔥  Currently using Python and C Sharp 
 
 Languages And Tools 
 
